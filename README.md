@@ -1,7 +1,6 @@
 # EDA--on-my-9-month-income-vs-expenses
 Statistical Analysis and Regression  on my income and expenses for 9 months in 2021 plus prescriptions.
-My-Expenses-Analysis is a jupyter notebook that contains the code and findings of my experiment.
-Youth-service.ipynb is another jupyter notebook focused on different perspective of the data, it contains data recordings from March 2021 to February 2022 when I partook in a National Service program which caused different results to my income and expenses.
+My-Expenses-Analysis is a jupyter notebook that contains the code and findings of my experiment for the first experiment while  Youth-service_income.ipynb is another jupyter notebook focused on different perspective of the data, it contains data recordings from March 2021 to February 2022 when I partook in a National Service program which caused different results to my income and expenses.
 
 **STACK:**
 1. Linear Regression with scipy.stats.
