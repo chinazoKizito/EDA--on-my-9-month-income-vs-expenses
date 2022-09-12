@@ -5,7 +5,7 @@ My-Expenses-Analysis is a jupyter notebook that contains the code and findings o
 **STACK:**
 1. Linear Regression with scipy.stats.
 2. Polynomial Regression with Scipy.stats.
-3. Multivariate Regresssion and Machine Learning with Scikit-Learn, RandomForestRegressor and Xgboost.
+3. Multiple Regresssion and Machine Learning with Scikit-Learn, RandomForestRegressor and Xgboost.
 5. Statistical measurements like mean, median, min, std and max with pandas.
 6. Estimation of odds using Binomial Distribution
 7. Data Visualization with Seaborn and Matplotlib.
